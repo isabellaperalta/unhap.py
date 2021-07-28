@@ -1,5 +1,4 @@
 # unhap.py
-code that generates different love letters
 
 When run, this Python code generates and displays a different response letter every minute.
 All generated letters have a common skeleton that defines their common basic structure.
